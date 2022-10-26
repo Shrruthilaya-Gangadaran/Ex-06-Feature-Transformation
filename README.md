@@ -1,6 +1,6 @@
 # Ex-06-Feature-Transformation
 ## Aim:
-To read and perform feature selection for the given dataset.
+To read and perform feature transformation for the given dataset.
 ## Explanation:
 Feature transformation is a mathematical transformation in which we apply a mathematical formula to a particular column (feature) and transform the values, which are useful for our further analysis. It is a technique by which we can boost our model performance.
 ## Algorithm:
