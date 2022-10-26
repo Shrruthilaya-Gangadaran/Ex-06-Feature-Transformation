@@ -122,4 +122,4 @@ plt.show()
 ### Quantile transformation:
 ![](plt10.PNG)
 ## Result:
-Thus, Featuretransformation is performed and executed successfully for the given dataset.
+Thus, Feature transformation is performed and executed successfully for the given dataset.
